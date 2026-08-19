@@ -1,2 +1,2 @@
-# DigitalDistribution
-Digital Distribution for small business
+# PawTom
+Your pets' social network
